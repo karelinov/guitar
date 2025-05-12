@@ -1,0 +1,52 @@
+<mxfile host="Electron" modified="2025-05-12T17:20:52.434Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="XEQH0GUiwm4ZK77zUshL" version="24.6.4" type="device">
+  <diagram id="ec7dsXRxZqBlURVk468d" name="Страница — 2">
+    <mxGraphModel dx="1233" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MoLUOoWKBqtgpBnRlrvZ-8" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;D&lt;/font&gt; - E - &lt;font color=&quot;#ff0000&quot;&gt;F&lt;/font&gt; - G - &lt;font color=&quot;#ff0000&quot;&gt;A&lt;/font&gt; - A# - C - D&lt;/b&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="660" y="30" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MoLUOoWKBqtgpBnRlrvZ-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;D1 - A1 - D2 - F2#&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="60" y="383.5" width="415" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MoLUOoWKBqtgpBnRlrvZ-12" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;D&amp;nbsp;&lt;/font&gt;- E -&amp;nbsp;&lt;font color=&quot;#ff0000&quot;&gt;F#&amp;nbsp;&lt;/font&gt;- G -&amp;nbsp;&lt;font color=&quot;#ff0000&quot;&gt;A&amp;nbsp;&lt;/font&gt;- B - C# - D&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="30" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MoLUOoWKBqtgpBnRlrvZ-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;D1 - F1# - A1 - D2 - F2#&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="50" y="760" width="415" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MoLUOoWKBqtgpBnRlrvZ-14" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;D1 - A1 - D2 - F2&lt;/b&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="650" y="384" width="415" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MoLUOoWKBqtgpBnRlrvZ-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;D1 - A1 - D2 - F2 - A2&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="640" y="760" width="415" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3XTobiIraHSOQ-q2Jp4y-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pereborom.ru/wp-content/uploads/2018/09/D-2.png;" vertex="1" parent="1">
+          <mxGeometry x="10" y="130" width="245" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="3XTobiIraHSOQ-q2Jp4y-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pereborom.ru/wp-content/uploads/2018/09/D-2.jpg;" vertex="1" parent="1">
+          <mxGeometry x="230" y="90" width="271" height="271" as="geometry" />
+        </mxCell>
+        <mxCell id="3XTobiIraHSOQ-q2Jp4y-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pereborom.ru/wp-content/uploads/2018/09/D-2-2.png;" vertex="1" parent="1">
+          <mxGeometry x="7.5" y="490" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="3XTobiIraHSOQ-q2Jp4y-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pereborom.ru/wp-content/uploads/2018/09/D-2-2.jpg;" vertex="1" parent="1">
+          <mxGeometry x="250" y="450" width="265" height="265" as="geometry" />
+        </mxCell>
+        <mxCell id="3XTobiIraHSOQ-q2Jp4y-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pereborom.ru/wp-content/uploads/2018/07/Akkord-Dm-na-gitare-1-lad.png;" vertex="1" parent="1">
+          <mxGeometry x="570" y="145" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="3XTobiIraHSOQ-q2Jp4y-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pereborom.ru/wp-content/uploads/2018/07/Akkord-Dm-na-1-ladu.jpg;" vertex="1" parent="1">
+          <mxGeometry x="800" y="90" width="270" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="3XTobiIraHSOQ-q2Jp4y-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pereborom.ru/wp-content/uploads/2018/07/Akkord-Dm-na-gitare-5-lad.png;" vertex="1" parent="1">
+          <mxGeometry x="550" y="510" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="3XTobiIraHSOQ-q2Jp4y-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pereborom.ru/wp-content/uploads/2018/07/Akkord-Dm-na-5-ladu.jpg;" vertex="1" parent="1">
+          <mxGeometry x="800" y="450" width="275" height="275" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
