@@ -1,0 +1,49 @@
+<mxfile host="Electron" modified="2025-05-30T16:49:49.529Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="lo6pBQ-irJDc3hOICSuI" version="24.6.4" type="device">
+  <diagram id="ec7dsXRxZqBlURVk468d" name="Страница — 2">
+    <mxGraphModel dx="1057" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MoLUOoWKBqtgpBnRlrvZ-8" value="&lt;span style=&quot;font-family: &amp;quot;Roboto Condensed&amp;quot;, sans-serif; font-size: 32px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;F&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(45, 55, 72); font-family: &amp;quot;Roboto Condensed&amp;quot;, sans-serif; font-size: 32px; background-color: rgb(255, 255, 255);&quot;&gt; - G - &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Roboto Condensed&amp;quot;, sans-serif; font-size: 32px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;G#&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(45, 55, 72); font-family: &amp;quot;Roboto Condensed&amp;quot;, sans-serif; font-size: 32px; background-color: rgb(255, 255, 255);&quot;&gt; - A# - &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Roboto Condensed&amp;quot;, sans-serif; font-size: 32px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;C&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(45, 55, 72); font-family: &amp;quot;Roboto Condensed&amp;quot;, sans-serif; font-size: 32px; background-color: rgb(255, 255, 255);&quot;&gt; - C# - D# - F&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="660" y="30" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MoLUOoWKBqtgpBnRlrvZ-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;F0 – C1 – F1 – A1 – C2 – F2&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="60" y="383.5" width="415" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MoLUOoWKBqtgpBnRlrvZ-12" value="&lt;div style=&quot;text-align: start; font-size: 30px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Roboto Condensed&amp;quot;, sans-serif; font-size: 32px; font-weight: 400; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;F&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(45, 55, 72); font-family: &amp;quot;Roboto Condensed&amp;quot;, sans-serif; font-size: 32px; font-weight: 400; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt; - G - &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Roboto Condensed&amp;quot;, sans-serif; font-size: 32px; font-weight: 400; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;A&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(45, 55, 72); font-family: &amp;quot;Roboto Condensed&amp;quot;, sans-serif; font-size: 32px; font-weight: 400; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt; - A# - &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Roboto Condensed&amp;quot;, sans-serif; font-size: 32px; font-weight: 400; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;C&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(45, 55, 72); font-family: &amp;quot;Roboto Condensed&amp;quot;, sans-serif; font-size: 32px; font-weight: 400; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt; - D - E - F&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="30" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MoLUOoWKBqtgpBnRlrvZ-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;F1 - C2 - F2 - A2&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="50" y="760" width="415" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MoLUOoWKBqtgpBnRlrvZ-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;F0 - C1 - F1 - G1# - C2 - F2&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="650" y="384" width="415" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MoLUOoWKBqtgpBnRlrvZ-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;F1 - G2# - C2 - F2&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="640" y="760" width="415" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qKNXTNmaZFe4W86qQ417-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pereborom.ru/wp-content/uploads/2018/09/F-1.png;" vertex="1" parent="1">
+          <mxGeometry x="10" y="120" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="qKNXTNmaZFe4W86qQ417-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pereborom.ru/wp-content/uploads/2018/09/F-1.jpg;" vertex="1" parent="1">
+          <mxGeometry x="270" y="100" width="255" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="qKNXTNmaZFe4W86qQ417-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pereborom.ru/wp-content/uploads/2018/09/F-3.png;" vertex="1" parent="1">
+          <mxGeometry x="10" y="470" width="270" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="qKNXTNmaZFe4W86qQ417-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pereborom.ru/wp-content/uploads/2018/09/F-3.jpg;" vertex="1" parent="1">
+          <mxGeometry x="280" y="461.25" width="258.75" height="258.75" as="geometry" />
+        </mxCell>
+        <mxCell id="qKNXTNmaZFe4W86qQ417-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pereborom.ru/wp-content/uploads/2022/03/Akkord-Fm.png;" vertex="1" parent="1">
+          <mxGeometry x="570" y="124" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="qKNXTNmaZFe4W86qQ417-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pereborom.ru/wp-content/uploads/2022/03/fm-na-gitare.jpg;" vertex="1" parent="1">
+          <mxGeometry x="840" y="100" width="255" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="qKNXTNmaZFe4W86qQ417-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pereborom.ru/wp-content/uploads/2022/03/Fm-2.png;" vertex="1" parent="1">
+          <mxGeometry x="570" y="484" width="256" height="256" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
