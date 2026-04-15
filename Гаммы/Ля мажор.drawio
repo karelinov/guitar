@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2025-06-26T17:01:56.636Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="k7SkTh2s8WFhn3Kc5dBs" version="24.6.4" type="device" pages="7">
+<mxfile host="Electron" modified="2026-04-09T10:48:55.908Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.16 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="Pv7L02iTaQeTiRpbBJXH" version="22.1.16" type="device" pages="7">
   <diagram name="Общий" id="SO0X9eCHDszmoeJIWC0o">
-    <mxGraphModel dx="740" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1226" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,7 +140,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Сводный" id="Ffq0B-JoZvkv0BuNSsNl">
-    <mxGraphModel dx="740" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="846" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="Pq7zqIIoMQGIjJPzxI_x-0" />
         <mxCell id="Pq7zqIIoMQGIjJPzxI_x-1" parent="Pq7zqIIoMQGIjJPzxI_x-0" />
